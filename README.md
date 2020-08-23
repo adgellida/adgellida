@@ -1,4 +1,4 @@
-### Hi there, I'm [adgellida!](https://adgellida.github.io) 👋
+### Hi there, I'm adgellida 👋
 
 <a href="https://twitter.com/adgellida">
   <img align="left" alt="Antonio David | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
