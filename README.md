@@ -22,8 +22,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>   
-<code><img height="50" src="https://icon-icons.com/downloadimage.php?id=94938&root=1381/PNG/512/&file=qt_94938.png"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code><code><img height="50" src="https://icon-icons.com/downloadimage.php?id=94938&root=1381/PNG/512/&file=qt_94938.png"></code>
 
 <!--- 
   if you have forked this to use on your profile, 
