@@ -1,19 +1,22 @@
-### Hi there, I'm adgellida 👋
+### Hey 👋, I'm adgellida
+
+<br/>
 
 <a href="https://twitter.com/adgellida">
-  <img align="left" alt="Antonio David | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/adgellida/">
-  <img align="left" alt="Antonio David | Twitter" width="21px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/adgellida">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/adgellida/">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
-
 <br />
 <br />
-
-Hi, I'm Antonio David, a passionate self-taught frontEnd web developer from Spain.
 
 - 🔭 I’m currently working on [ubunsys](https://github.com/adgellida/ubunsys)
 
