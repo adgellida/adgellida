@@ -45,6 +45,9 @@ Discord servers
 
 <p align="center">
 
+Info & stats
+=============================================
+
 - 🔭 I’m currently working on [ubunsys](https://github.com/adgellida/ubunsys)
 
 **Languages and Tools:**  
