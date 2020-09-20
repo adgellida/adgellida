@@ -12,9 +12,8 @@
 <a href="https://www.instagram.com/adgellida/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-                                                                                                              
-</p>
 
+<p>
 <img src="https://github.com/adgellida/resources/blob/master/images/Discord.jpg" width="200"/>
 <a href="https://discord.gg/hN6MMK">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" />
@@ -26,7 +25,6 @@
 <a href="https://discord.gg/6hRWpbG">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/foto.jpg" />
 </a>
-
 </p>
 
 - 🔭 I’m currently working on [ubunsys](https://github.com/adgellida/ubunsys)
