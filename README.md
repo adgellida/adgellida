@@ -1,3 +1,5 @@
+<p align="center">
+
 ### Hey 👋, I'm adgellida
 
 <a href="https://twitter.com/adgellida">
@@ -12,6 +14,8 @@
 <a href="https://www.instagram.com/adgellida/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+                                                                                                              
+</p>
 
 <p align="center">
  
