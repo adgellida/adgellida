@@ -17,7 +17,7 @@
                                                                                                               
 </p>
 
-<p align="center">
+<p align="left">
 
 Discord servers
 =============================================
