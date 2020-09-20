@@ -17,7 +17,6 @@
                                                                                                               
 </p>
 
-
 <br>
 </br>
 
@@ -42,6 +41,9 @@ Discord servers
 </a>
 
 </p>
+
+<br>
+</br>
 
 <p align="center">
 
