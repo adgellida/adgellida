@@ -13,8 +13,24 @@
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
+
+
 <br />
-<br />
+
+
+TechShareRoom Discord | MotorShareRoom Discord | Second Header
+------------ | ------------- | -------------
+<a href="https://discord.gg/hN6MMK">
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" />
+</a> | <a href="https://discord.gg/ATDRGu">
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" />
+</a> | <a href="https://discord.gg/ATDRGu">
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" />
+</a>
+
+<br>
+<br/>
 
 - 🔭 I’m currently working on [ubunsys](https://github.com/adgellida/ubunsys)
 
@@ -28,9 +44,6 @@
 --->
 
 <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/adgellida/github-readme-stats)*
-
 
 <a href="https://github.com/adgellida/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adgellida&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
