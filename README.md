@@ -18,7 +18,9 @@
 </p>
 
 <p align="center">
- 
+
+Discord servers
+=============================================
 <a href="https://discord.gg/hN6MMK">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Discord.jpg" />
 </a>  
