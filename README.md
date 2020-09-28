@@ -48,15 +48,60 @@ Discord servers
 </br>
 <br>
 </br>
+
+<p align="left">
+
+Telegram groups
+=============================================
+<a href="https://t.me/petshareroom">
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" />
+</a>  
+<a href="https://t.me/techshareroom">
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" />
+</a>
+  
+<a href="https://t.me/motorshareroom">
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" />
+</a>
+
+</a>
+<a href="https://t.me/adgellida">
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" />
+</a>
+
+</p>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+
+Main developments
+=============================================
+<a href="https://github.com/adgellida/ubunsys">
+  <img align="left" alt="" width="150px" src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" />
+</a>
+
+<a href="https://github.com/adgellida/winsys">
+  <img align="left" alt="" width="180px" src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" />
+</a>
+  
+</p>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
 <br>
 </br>
 
 <p align="center">
-
-Info & stats
-=============================================
-
-- 🔭 I’m currently working on [ubunsys](https://github.com/adgellida/ubunsys)
 
 **Languages and Tools:**  
 
