@@ -11,10 +11,13 @@
 <a href="https://t.me/adgellida">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://www.twitch.tv/adgellida">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
+</a>
 <a href="https://www.instagram.com/adgellida/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-                                                                                                              
+                                                                                                            
 </p>
 
 <br>
