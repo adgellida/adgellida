@@ -24,8 +24,8 @@
 
 Discord servers
 =============================================
-<a href="https://discord.gg/hN6MMK">
-  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Discord.jpg" />
+<a href="https://discord.gg/XFVCuW">
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" />
 </a>  
 <a href="https://discord.gg/hN6MMK">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" />
@@ -37,11 +37,13 @@ Discord servers
 
 </a>
 <a href="https://discord.gg/6hRWpbG">
-  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/foto.jpg" />
+  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" />
 </a>
 
 </p>
 
+<br>
+</br>
 <br>
 </br>
 <br>
