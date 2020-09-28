@@ -5,15 +5,23 @@
 <a href="https://twitter.com/adgellida">
   <img align="left" alt="" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+                                                                                                                       
 <a href="https://www.linkedin.com/in/adgellida/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://t.me/adgellida">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+
 <a href="https://www.twitch.tv/adgellida">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
+
+<a href="https://discord.gg/6hRWpbG">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
 <a href="https://www.instagram.com/adgellida/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -29,7 +37,8 @@ Discord servers
 =============================================
 <a href="https://discord.gg/XFVCuW">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" />
-</a>  
+</a>
+
 <a href="https://discord.gg/hN6MMK">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" />
 </a>
@@ -38,7 +47,6 @@ Discord servers
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" />
 </a>
 
-</a>
 <a href="https://discord.gg/6hRWpbG">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" />
 </a>
@@ -60,7 +68,8 @@ Telegram groups
 =============================================
 <a href="https://t.me/petshareroom">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" />
-</a>  
+</a>
+
 <a href="https://t.me/techshareroom">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" />
 </a>
@@ -69,7 +78,6 @@ Telegram groups
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" />
 </a>
 
-</a>
 <a href="https://t.me/adgellida">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" />
 </a>
