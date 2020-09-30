@@ -54,6 +54,7 @@ Telegram groups & Discord servers
 <a href="https://discord.gg/6hRWpbG">
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" />
 </a>
+
 </p>
 
 <br>
@@ -68,35 +69,35 @@ Telegram groups & Discord servers
 <p align="left">
 
 <a href="https://t.me/petshareroom">
-  <img align="left" alt="" width="70px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
+  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
 </a>
 
 <a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="70px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
+  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
 </a>
 
 <a href="https://t.me/techshareroom">
-  <img align="left" alt="" width="70px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
+  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
 </a>
 
 <a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="70px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
+  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
 </a>
 
 <a href="https://t.me/motorshareroom">
-  <img align="left" alt="" width="70px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
+  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
 </a>
 
 <a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="70px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
+  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
 </a>
 
 <a href="https://t.me/adgellida">
-  <img align="left" alt="" width="70px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
+  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
 </a>
 
 <a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="70px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
+  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
 </a>
 
 </p>
@@ -132,6 +133,7 @@ Main developments
 </br>
 <br>
 </br>
+
 <p align="center">
 
 **Languages and Tools:**  
