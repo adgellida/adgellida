@@ -55,6 +55,16 @@ Telegram groups & Discord servers
   <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" />
 </a>
 </p>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+
 <p align="left">
 
 <a href="https://t.me/petshareroom">
