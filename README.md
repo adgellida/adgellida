@@ -32,9 +32,6 @@
 
 </p>
 
-<br>
-</br>
-
 <p align="left">
 
 Telegram groups & Discord servers
@@ -56,15 +53,6 @@ Telegram groups & Discord servers
 </a>
 
 </p>
-
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
 
 <p align="left">
 
@@ -122,17 +110,6 @@ Main developments
 </a>
   
 </p>
-
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
 
 <p align="center">
 
