@@ -1,6 +1,9 @@
 <p align="center">
 
 ### Hey 👋, I'm adgellida
+I'm specialized in electronics, although I defend myself well in computer environments.
+
+My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open Source, Odoo, etc.
 
 <a href="https://twitter.com/adgellida">
   <img align="left" alt="" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
