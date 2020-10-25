@@ -1,7 +1,7 @@
 <p align="center">
 
 ### Hey 👋, I'm adgellida
-I'm specialized in electronics, although I defend myself well in computer environments.
+I'm specialized in electronics and automation, although I defend myself well in computer environments.
 
 My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open Source, Odoo, etc.
 
