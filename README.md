@@ -156,3 +156,5 @@ Main developments
 </a>
 
 </p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adgellida.adgellida)
