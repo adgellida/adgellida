@@ -43,106 +43,32 @@ My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open S
 
 <p align="left">
 
-Telegram groups & Discord servers
-=============================================
-<a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" />
-</a>
-
-<a href="https://discord.gg/hN6MMK">
-  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" />
-</a>
-  
-<a href="https://discord.gg/ATDRGu">
-  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" />
-</a>
-
-<a href="https://discord.gg/6hRWpbG">
-  <img align="left" alt="" width="150px" src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" />
-</a>
-
-</p>
-
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-
-<p align="left">
-
-<a href="https://t.me/petshareroom">
-  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
-</a>
-
-<a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
-</a>
-
-<a href="https://t.me/techshareroom">
-  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
-</a>
-
-<a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
-</a>
-
-<a href="https://t.me/motorshareroom">
-  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
-</a>
-
-<a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
-</a>
-
-<a href="https://t.me/adgellida">
-  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/telegram.png" />
-</a>
-
-<a href="https://discord.gg/XFVCuW">
-  <img align="left" alt="" width="65px" src="https://github.com/adgellida/resources/blob/master/images/discord.png" />
-</a>
-
-</p>
-
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-
 Main developments
 =============================================
-<a href="https://github.com/adgellida/ubunsys">
-  <img align="left" alt="" width="150px" src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" />
-</a>
 
-<a href="https://github.com/adgellida/data-protection-list">
-  <img align="left" alt="" width="150px" src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" />
-</a>
+* <img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" width="50">[ubunsys](https://github.com/adgellida/ubunsys)
 
-<a href="https://github.com/adgellida/winsys">
-  <img align="left" alt="" width="180px" src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" />
-</a>
-  
-</p>
+* <img src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" width="50">[winsys](https://github.com/adgellida/winsys)
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
+* <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="50">[data-protection-list](https://github.com/adgellida/data-protection-list)
+
+Recommended repos
+=============================================
+* [TheNEWTTS](https://github.com/LuisSanchez-Dev/TheNewTTS)
+
+Telegram groups & Discord servers
+=============================================
+  <!-- Petshare -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" width="100">[Discord](https://discord.gg/XFVCuW) [Telegram](https://t.me/petshareroom)
+
+  <!-- Techshare -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100">[Discord](https://discord.gg/hN6MMK) [Telegram](https://t.me/techshareroom)
+
+  <!-- Motorshare -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">[Discord](https://discord.gg/ATDRGu) [Telegram](https://t.me/motorshareroom)
+
+  <!-- Personal -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="100">[Discord](https://discord.gg/6hRWpbG) [Telegram](https://t.me/adgellida)
 
 <p align="center">
 
