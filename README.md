@@ -38,6 +38,9 @@ My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open S
 
 </p>
 
+<br>
+</br>
+
 <p align="left">
 
 Main developments
