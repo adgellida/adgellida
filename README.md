@@ -59,16 +59,16 @@ Recommended repos
 Telegram groups & Discord servers
 =============================================
   <!-- Petshare -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" width="100">[Discord](https://discord.gg/XFVCuW) [Telegram](https://t.me/petshareroom)
+* <img src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" width="100"><a href="https://discord.gg/XFVCuW" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/petshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
   <!-- Techshare -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100">[Discord](https://discord.gg/hN6MMK) [Telegram](https://t.me/techshareroom)
+* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100"><a href="https://discord.gg/hN6MMK" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
   <!-- Motorshare -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">[Discord](https://discord.gg/ATDRGu) [Telegram](https://t.me/motorshareroom)
+* <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100"><a href="https://discord.gg/ATDRGu" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/motorshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
   <!-- Personal -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="100">[Discord](https://discord.gg/6hRWpbG) [Telegram](https://t.me/adgellida)
+* <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="100"><a href="https://discord.gg/6hRWpbG" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
 <p align="center">
 
