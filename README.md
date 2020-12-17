@@ -70,8 +70,6 @@ Telegram groups & Discord servers
   <!-- Personal -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="50"><a href="https://discord.gg/6hRWpbG" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
-<p align="center">
-
 **Languages and Tools:**  
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code><code><img height="50" src="https://icon-icons.com/downloadimage.php?id=94938&root=1381/PNG/512/&file=qt_94938.png"></code>
