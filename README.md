@@ -9,7 +9,7 @@ I'm specialized in electronics and automation, although I defend myself well in 
 My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open Source, Odoo, etc.
 
 <a href="https://twitter.com/adgellida">
-  <img align="left" alt="" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
                                                                                                                        
 <a href="https://www.linkedin.com/in/adgellida/">
@@ -68,7 +68,7 @@ Telegram groups & Discord servers
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100"><a href="https://discord.gg/ATDRGu" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/motorshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
   <!-- Personal -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="100"><a href="https://discord.gg/6hRWpbG" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="50"><a href="https://discord.gg/6hRWpbG" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
 <p align="center">
 
