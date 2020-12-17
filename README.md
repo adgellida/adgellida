@@ -68,7 +68,7 @@ Telegram groups & Discord servers
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100"><a href="https://discord.gg/ATDRGu" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/motorshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
   <!-- Personal -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="50"><a href="https://discord.gg/6hRWpbG" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="100"><a href="https://discord.gg/6hRWpbG" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
 **Languages and Tools:**  
 
