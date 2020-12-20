@@ -58,9 +58,6 @@ Recommended repos
 
 Telegram groups & Discord servers
 =============================================
-  <!-- Petshare -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" width="100"><a href="https://discord.gg/XFVCuW" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/petshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
-
   <!-- Techshare -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100"><a href="https://discord.gg/hN6MMK" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
@@ -69,6 +66,9 @@ Telegram groups & Discord servers
 
   <!-- Personal -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/photo.jpg" width="100"><a href="https://discord.gg/6hRWpbG" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
+
+  <!-- Petshare -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" width="100"><a href="https://discord.gg/XFVCuW" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/petshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
 **Languages and Tools:**  
 
