@@ -56,7 +56,7 @@ Recommended repos
 =============================================
 * [TheNEWTTS](https://github.com/LuisSanchez-Dev/TheNewTTS) - The best Text to Speech (TTS) for Twitch, Mixer and Youtube streams for Streamlabs Chatbot
 
-Telegram groups & Discord servers & github Communities
+Telegram groups & Discord servers & Github Organizations
 =============================================
   <!-- Techshare -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100"><a href="https://discord.gg/wfm7Jrj" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"><a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
