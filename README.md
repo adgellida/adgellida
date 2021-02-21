@@ -58,10 +58,10 @@ Recommended repos
 
 Telegram groups & Discord servers & Github Organizations
 =============================================
-  <!-- Techshare -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100"><a href="https://discord.gg/wfm7Jrj" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"><a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
+  <!-- TechShareRoom -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100"><a href="https://discord.gg/ZbaXjvsq2m" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"><a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
 
-  <!-- Motorshare -->
+  <!-- MotorShareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100"><a href="https://discord.gg/ChcXcmX" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
   <!-- Personal -->
