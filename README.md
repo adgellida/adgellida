@@ -59,12 +59,12 @@ Recommended repos
 Telegram groups & Discord servers & Github Organizations
 =============================================
   <!-- TechShareRoom -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100"><a href="https://discord.gg/ZbaXjvsq2m" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"><a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100"><a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"><a href="https://discord.gg/hbAHGSYGfs" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"><a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
 
   <!-- MotorShareRoom -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100"><a href="https://discord.gg/wqGf5ASwmc" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100"><a href="https://www.twitch.tv/motorshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"><a href="https://discord.gg/wqGf5ASwmc" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
-  <!-- Petshare -->
+  <!-- PetshareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" width="100"><a href="https://discord.gg/wBfuj2z" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/PetShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
 **Languages and Tools:**  
@@ -72,7 +72,7 @@ Telegram groups & Discord servers & Github Organizations
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code><code><img height="50" src="https://icon-icons.com/downloadimage.php?id=94938&root=1381/PNG/512/&file=qt_94938.png"></code>
 
 <a href="https://github.com/adgellida/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adgellida&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adgellida&show_icons=true&include_all_commits=true&theme=radical" />
 </a>
 <a href="https://github.com/adgellida/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
