@@ -1,7 +1,5 @@
 <p align="center">
   
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adgellida.adgellida)
-  
 **Hey 👋, I'm adgellida**
 
 I'm specialized in electronics and automation, although I defend myself well in computer environments.
