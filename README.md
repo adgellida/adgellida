@@ -60,7 +60,7 @@ Telegram groups & Discord servers & Github Organizations
 * <img src="https://github.com/adgellida/resources/blob/master/images/photo2.png" width="100"><a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50">
 
   <!-- Gran Comunidad -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Gran Comunidad.gif" width="100"><a href="https://discord.gg/h3ThekC7Bt" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Gran_Comunidad.gif" width="100"><a href="https://discord.gg/h3ThekC7Bt" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
 
   <!-- TechShareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo2.png" width="100"><a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"><a href="https://discord.gg/hbAHGSYGfs" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"><a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
