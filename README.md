@@ -34,6 +34,10 @@ My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open S
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<a href="http://www.adgellida.com/adgellida_web">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />
+</a>  
+ 
 </p>
 
 <br>
@@ -57,7 +61,7 @@ Recommended repos
 Telegram groups & Discord servers & Github Organizations
 =============================================
   <!-- adgellida -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/photo2.png" width="100"><a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50">
+* <img src="https://github.com/adgellida/resources/blob/master/images/photo2.png" width="100"><a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"><a href="http://www.adgellida.com/adgellida_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
 
   <!-- Gran Comunidad -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Gran_Comunidad.gif" width="100"><a href="https://discord.gg/h3ThekC7Bt" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
