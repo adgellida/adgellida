@@ -69,7 +69,7 @@ Telegram groups & Discord servers & Github Organizations
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100"><a href="https://www.twitch.tv/motorshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"><a href="https://discord.gg/wqGf5ASwmc" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
   <!-- Brotech -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100"><a href="https://discord.gg/Cj9QzMgW" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://www.twitch.tv/tvbrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100"><a href="https://www.twitch.tv/tvbrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a><a href="https://discord.gg/Cj9QzMgW" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
   
   <!-- Li_DK2 -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Li_DK2.png" width="100"><a href="https://www.twitch.tv/Li_DK2" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
