@@ -56,7 +56,7 @@ Main developments
 
 Recommended repos
 =============================================
-* [TheNEWTTS](https://github.com/LuisSanchez-Dev/TheNewTTS) - The best Text to Speech (TTS) for Twitch, Mixer and Youtube streams for Streamlabs Chatbot
+* [TheNEWTTS](https://github.com/LuisSanchez-Dev/TheNewTTS) - Text to Speech (TTS) for Twitch, Mixer and Youtube streams for Streamlabs Chatbot
 
 Telegram groups & Discord servers & Github Organizations
 =============================================
