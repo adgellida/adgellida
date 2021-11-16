@@ -14,6 +14,10 @@ My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open S
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+  <a href="https://www.polywork.com/adgellida/">
+  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/adgellida/resources/master/images/polywork.png" />
+</a>
+  
 <a href="https://t.me/adgellida">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
