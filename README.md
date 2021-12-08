@@ -58,6 +58,23 @@ Main developments
 
 * <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="50">[data-protection-list](https://github.com/adgellida/data-protection-list) - Manual of resistance to surveillance capitalism
 
+Secondary developments
+=============================================
+
+* <img src="https://raw.githubusercontent.com/adgellida/ubuntupackages/master/logo.png" width="50">[ubuntupackages](https://github.com/adgellida/ubuntupackages)
+* <img src="https://raw.githubusercontent.com/adgellida/ubuntuScripts/master/logo.png" width="50">[ubuntuScripts](https://github.com/adgellida/ubuntuScripts)
+* <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="50">[windowspackages](https://github.com/adgellida/windowspackages)
+
+Not maintained for a loooong time
+=============================================
+
+* <img src="https://raw.githubusercontent.com/adgellida/chocolateyautomaticpackages/master/logo.png" width="50">[chocolateyautomaticpackages](https://github.com/adgellida/chocolateyautomaticpackages)
+* <img src="https://raw.githubusercontent.com/adgellida/androidpackages/master/logo.png" width="50">[androidpackages](https://github.com/adgellida/androidpackages)
+* <img src="https://raw.githubusercontent.com/adgellida/orangePiProjects/master/logo.png" width="50">[orangePiProjects](https://github.com/adgellida/orangePiProjects)
+* <img src="https://raw.githubusercontent.com/adgellida/debianpackages/master/logo.png" width="50">[orangePiProjects](https://github.com/adgellida/debianpackages)
+* <img src="https://raw.githubusercontent.com/adgellida/arduinoProjects/master/logo.png" width="50">[arduinoProjects](https://github.com/adgellida/arduinoProjects)
+* <img src="https://raw.githubusercontent.com/adgellida/androidesys/master/logo.png" width="50">[androidesys](https://github.com/adgellida/androidesys)
+
 Recommended repos
 =============================================
 * [TheNEWTTS](https://github.com/LuisSanchez-Dev/TheNewTTS) - Text to Speech (TTS) for Twitch, Mixer and Youtube streams for Streamlabs Chatbot
