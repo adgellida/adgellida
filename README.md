@@ -95,7 +95,10 @@ Telegram groups & Discord servers & Github Organizations
 
   <!-- Brotech -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100"><a href="https://www.twitch.tv/tvbrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a><a href="https://app.revolt.chat/invite/en2Qwe3m" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/Revolt.jpg" width="50"></a><a href="https://discord.gg/ngbenjdHbj" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
-  
+
+  <!-- Neumático Intermedio -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/NeumaticoIntermedio.png" width="100"></a><a href="https://discord.gg/4qN9Nxvy" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
+
   <!-- Li_DK2 -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Li_DK2.png" width="100"><a href="https://www.twitch.tv/Li_DK2" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
 
