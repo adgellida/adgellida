@@ -57,6 +57,8 @@ Main developments
 * <img src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" width="50">[winsys](https://github.com/adgellida/winsys) - Very similiar tu ubunsys, but for Windows 10 x64
 
 * <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="50">[data-protection-list](https://github.com/adgellida/data-protection-list) - Manual of resistance to surveillance capitalism
+  
+* <img src="https://github.com/techshareroom/resources/raw/main/images/backup-restore-advanced-cms.png" width="50">[backup-restore-advanced-cms](https://github.com/techshareroom/backup-restore-advanced-cms) - Universal backup script for sites using content management system (CMS) such as MediaWiki, Joomla, WordPress, etc.
 
 Secondary developments
 =============================================
