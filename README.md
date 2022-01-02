@@ -84,29 +84,49 @@ Recommended repos
 Telegram groups & Discord servers & Github Organizations
 =============================================
   <!-- adgellida -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/photo2.png" width="100"><a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"><a href="http://www.adgellida.com/adgellida_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/photo2.png" width="100">
+  <a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50">
+  <a href="http://www.adgellida.com/adgellida_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
 
   <!-- Gran Comunidad -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Gran_Comunidad.gif" width="100"><a href="https://discord.gg/h3ThekC7Bt" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Gran_Comunidad.gif" width="100">
+  <a href="https://discord.gg/h3ThekC7Bt" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
 
   <!-- TechShareRoom -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo3_1.gif" width="100"><a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a><a href="https://app.revolt.chat/invite/248QGdkf" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/Revolt.jpg" width="50"></a><a href="https://discord.gg/hbAHGSYGfs" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"><a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a><a href="http://www.techshareroom.com/techshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a><a href="http://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo3_1.gif" width="100">
+  <a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
+  <a href="https://app.revolt.chat/invite/248QGdkf" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/Revolt.jpg" width="50"></a>
+  <a href="https://discord.gg/hbAHGSYGfs" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
+  <a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50">
+  <a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
+  <a href="http://www.techshareroom.com/techshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
+  <a href="http://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
 
   <!-- MotorShareRoom -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100"><a href="https://www.twitch.tv/motorshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"><a href="https://discord.gg/wqGf5ASwmc" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">
+  <a href="https://www.twitch.tv/motorshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50">
+  <a href="https://discord.gg/wqGf5ASwmc" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
+  <a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
   <!-- Brotech -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100"><a href="https://brotechka.wordpress.com" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a><a href="https://www.twitch.tv/tvbrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a><a href="https://app.revolt.chat/invite/en2Qwe3m" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/Revolt.jpg" width="50"></a><a href="https://discord.gg/ngbenjdHbj" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100">
+  <a href="https://brotechka.wordpress.com" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
+  <a href="https://www.twitch.tv/tvbrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a><a href="https://app.revolt.chat/invite/en2Qwe3m" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/Revolt.jpg" width="50"></a>
+  <a href="https://discord.gg/ngbenjdHbj" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
 
   <!-- Neumático Intermedio -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/NeumaticoIntermedio.png" width="100"></a><a href="https://neumaticointermedio.com" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/NeumaticoIntermedio.png" width="100"></a>
+  <a href="https://neumaticointermedio.com" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://discord.gg/4qN9Nxvy" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
 
   <!-- Li_DK2 -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Li_DK2.png" width="100"><a href="https://www.twitch.tv/Li_DK2" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Li_DK2.png" width="100">
+  <a href="https://www.twitch.tv/Li_DK2" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
 
   <!-- PetshareRoom -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" width="100"><a href="https://discord.gg/wBfuj2z" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a><a href="https://t.me/PetShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
+* <img src="https://github.com/adgellida/resources/blob/master/images/Petshare_room_Logo2.png" width="100">
+  <a href="https://discord.gg/wBfuj2z" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
+  <a href="https://t.me/PetShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
 
 **Languages and Tools:**  
 
