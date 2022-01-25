@@ -6,6 +6,10 @@ I'm specialized in electronics and automation, although I defend myself well in 
 
 My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open Source, Odoo, etc.
 
+<a href="https://adgellida.com/adgellida_web">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />
+</a>  
+  
 <a href="https://twitter.com/adgellida">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -37,10 +41,6 @@ My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open S
 <a href="https://www.youtube.com/c/AntonioDavidGellidaLavara">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-<a href="http://www.adgellida.com/adgellida_web">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />
-</a>  
  
 </p>
 
