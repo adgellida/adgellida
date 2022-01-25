@@ -101,6 +101,7 @@ Telegram groups & Discord servers & Github Organizations
   <a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
   <a href="https://techshareroom.com/techshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
+  <a href="https://techshareroom.com/techshareroom_forum" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mybb.png" width="50"></a>
 
   <!-- MotorShareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">
