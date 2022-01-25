@@ -86,7 +86,7 @@ Telegram groups & Discord servers & Github Organizations
   <!-- adgellida -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/photo2.png" width="100">
   <a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50">
-  <a href="http://www.adgellida.com/adgellida_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
+  <a href="https://adgellida.com/adgellida_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
 
   <!-- Gran Comunidad -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Gran_Comunidad.gif" width="100">
@@ -99,8 +99,8 @@ Telegram groups & Discord servers & Github Organizations
   <a href="https://discord.gg/hbAHGSYGfs" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
   <a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50">
   <a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
-  <a href="http://www.techshareroom.com/techshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
-  <a href="http://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
+  <a href="https://techshareroom.com/techshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
+  <a href="https://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
 
   <!-- MotorShareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">
