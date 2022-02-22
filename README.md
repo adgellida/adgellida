@@ -89,7 +89,7 @@ Main developments
   
 * <img src="https://github.com/techshareroom/resources/raw/main/images/backup-restore-advanced-cms.png" width="50">[backup-restore-advanced-cms](https://github.com/techshareroom/backup-restore-advanced-cms) - Universal backup script for sites using content management system (CMS) such as MediaWiki, Joomla, WordPress, etc.
 
-* <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="50">[windowspackages](https://github.com/adgellida/windowspackages)- Install & update packages like a boss
+* <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="50">[windowspackages](https://github.com/adgellida/windowspackages) - Install & update packages like a boss
     
 **Languages and Tools:**  
 
