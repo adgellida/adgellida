@@ -83,7 +83,7 @@ Main developments
 
 * <img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" width="50">[ubunsys](https://github.com/adgellida/ubunsys) - Gives the user a powerful control center to toggle on and off many system settings in Ubuntu x64, it is able to change system configurations, system updates, executable improvements, small system fixes, and more at the touch of a button
 
-* <img src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" width="50">[winsys](https://github.com/adgellida/winsys) - Very similiar tu ubunsys, but for Windows 10 x64
+* <img src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" width="50">[winsys](https://github.com/adgellida/winsys) - Very similiar to ubunsys, but for Windows 10 x64
 
 * <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="50">[data-protection-list](https://github.com/adgellida/data-protection-list) - Manual of resistance to surveillance capitalism
   
