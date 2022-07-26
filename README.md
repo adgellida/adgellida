@@ -78,6 +78,10 @@ Main sites where I participate in
   <a href="https://discord.gg/ngbenjdHbj" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
   <a href="https://github.com/TVBrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
 
+  <!-- MotorShareRoom -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">
+  <a href="https://discord.gg/wqGf5ASwmc" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a> 
+    
 Main developments
 =============================================
 
