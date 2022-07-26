@@ -56,8 +56,8 @@ Main sites where I participate in
   <a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50">
   <a href="https://adgellida.com/adgellida_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
 
-  <!-- Gran Comunidad -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Gran_Comunidad.gif" width="100">
+  <!-- Clan Zoku -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/ClanZoku.png" width="100">
   <a href="https://discord.gg/h3ThekC7Bt" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
 
   <!-- TechShareRoom -->
