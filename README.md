@@ -69,7 +69,6 @@ Main sites where I participate in
   <a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
   <a href="https://techshareroom.com/techshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
-  <a href="https://techshareroom.com/techshareroom_forum" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mybb.png" width="50"></a>
 
   <!-- Brotech -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100">
@@ -80,7 +79,11 @@ Main sites where I participate in
 
   <!-- MotorShareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">
+  <a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
   <a href="https://discord.gg/wqGf5ASwmc" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a> 
+  <a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50">
+  <a href="https://motorshareroom.com/motorshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
+  <a href="https://motorshareroom.com/motorshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
     
 Main developments
 =============================================
