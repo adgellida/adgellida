@@ -4,7 +4,7 @@
 
 I'm specialized in electronics and automation, although I defend myself well in computer environments.
 
-My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open Source, Odoo, etc.
+My topics of interest are Linux, Xiaomi, Android, Arduino, Raspberry Pi, Open Source, Odoo, etc.
 
 <a href="https://adgellida.com/adgellida_web">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />
@@ -48,6 +48,8 @@ My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open S
 </br>
 
 <p align="left">
+
+![Metrics](https://metrics.lecoq.io/adgellida?template=classic&repositories=1&people=1&languages=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=6&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.featured=ubunsys%2C%20winsys%2C%20data-protection-list%2C%20windowspackages%2C%20techshareroom%2Fbackup-restore-advanced-cms&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=Europe%2FMadrid)
 
 Main sites where I participate in
 =============================================
@@ -97,17 +99,5 @@ Main developments
 * <img src="https://github.com/techshareroom/resources/raw/main/images/backup-restore-advanced-cms.png" width="50">[backup-restore-advanced-cms](https://github.com/techshareroom/backup-restore-advanced-cms) - Universal backup script for sites using content management system (CMS) such as MediaWiki, Joomla, WordPress, etc.
 
 * <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="50">[windowspackages](https://github.com/adgellida/windowspackages) - Install & update packages like a boss
-    
-**Languages and Tools:**  
-
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code><code><img height="50" src="https://icon-icons.com/downloadimage.php?id=94938&root=1381/PNG/512/&file=qt_94938.png"></code>
-
-<a href="https://github.com/adgellida/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adgellida&show_icons=true&include_all_commits=true&theme=radical" />
-</a>
-<a href="https://github.com/adgellida/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adgellida&layout=compact&theme=radical" />
-</a>
 
 </p>
