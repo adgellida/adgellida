@@ -7,39 +7,39 @@ I'm specialized in electronics and automation, although I defend myself well in 
 My topics of interest are Linux, Xiaomi, Android, Arduino, Raspberry Pi, Open Source, Odoo, etc.
 
 <a href="https://adgellida.com/adgellida_web">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />
+  <img align="left" alt="" width="35px" src="https://techshareroom.com/techshareroom_wiki/images/2/2e/WordPress_blue_logo.png" />
 </a>  
   
 <a href="https://twitter.com/adgellida">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="" width="35px" src="https://techshareroom.com/techshareroom_wiki/images/f/f7/Twitter.png" />
 </a>
                                                                                                                        
 <a href="https://www.linkedin.com/in/adgellida/">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="" width="35px" src="https://techshareroom.com/techshareroom_wiki/images/a/ae/LinkedIn.png" />
 </a>
 
   <a href="https://www.polywork.com/adgellida/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/adgellida/resources/master/images/polywork.png" />
+  <img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/adgellida/resources/master/images/polywork.png" />
 </a>
   
 <a href="https://t.me/adgellida">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="" width="35px" src="https://techshareroom.com/techshareroom_wiki/images/7/7a/Logotelegram.png" />
 </a>
 
 <a href="https://www.twitch.tv/adgellida">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
+  <img align="left" alt="" width="35px" src="https://techshareroom.com/techshareroom_wiki/images/4/40/Twitch.png" />
 </a>
 
 <a href="https://discord.com/users/280292967745454081">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="" width="35px" src="https://techshareroom.com/techshareroom_wiki/images/d/dd/Discord.png" />
 </a>
 
 <a href="https://www.instagram.com/adgellida/">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="" width="35px" src="https://techshareroom.com/techshareroom_wiki/images/b/b7/Instagram.png" />
 </a>
 
 <a href="https://www.youtube.com/c/AntonioDavidGellidaLavara">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="" width="35px" src="https://techshareroom.com/techshareroom_wiki/images/c/c0/YouTube.png" />
 </a>
  
 </p>
