@@ -52,7 +52,7 @@ My topics of interest are Linux, Xiaomi, Android, Arduino, Raspberry Pi, Open So
 Main developments
 =============================================
 
-* <img src="https://github.com/techshareroom/resources/raw/main/images/ArchLogo.png" width="50">[ubunsys](https://github.com/adgellida/ArchMatic) - Arch Linux post-installation setup and config scripts. Tested on Garuda Linux (Arch based)
+* <img src="https://raw.githubusercontent.com/adgellida/ArchMatic/master/logo.png" width="50">[ArchMatic](https://github.com/adgellida/ArchMatic) - Arch Linux post-installation setup and config scripts. Tested on Garuda Linux (Arch based)
 
 * <img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" width="50">[ubunsys](https://github.com/adgellida/ubunsys) - Gives the user a powerful control center to toggle on and off many system settings in Ubuntu x64, it is able to change system configurations, system updates, executable improvements, small system fixes, and more at the touch of a button
 
