@@ -48,8 +48,23 @@ My topics of interest are Linux, Xiaomi, Android, Arduino, Raspberry Pi, Open So
 </br>
 
 <p align="left">
+    
+Main developments
+=============================================
 
-![Metrics](https://metrics.lecoq.io/adgellida?template=classic&repositories=1&people=1&languages=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=6&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.featured=ubunsys%2C%20winsys%2C%20data-protection-list%2C%20windowspackages%2C%20techshareroom%2Fbackup-restore-advanced-cms&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=Europe%2FMadrid)
+* <img src="https://github.com/techshareroom/resources/raw/main/images/ArchLogo.png" width="50">[ubunsys](https://github.com/adgellida/ArchMatic) - Arch Linux post-installation setup and config scripts. Tested on Garuda Linux (Arch based)
+
+* <img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" width="50">[ubunsys](https://github.com/adgellida/ubunsys) - Gives the user a powerful control center to toggle on and off many system settings in Ubuntu x64, it is able to change system configurations, system updates, executable improvements, small system fixes, and more at the touch of a button
+
+* <img src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" width="50">[winsys](https://github.com/adgellida/winsys) - Very similiar to ubunsys, but for Windows 10 x64
+
+* <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="50">[data-protection-list](https://github.com/adgellida/data-protection-list) - Manual of resistance to surveillance capitalism
+  
+* <img src="https://github.com/techshareroom/resources/raw/main/images/backup-restore-advanced-cms.png" width="50">[backup-restore-advanced-cms](https://github.com/techshareroom/backup-restore-advanced-cms) - Universal backup script for sites using content management system (CMS) such as MediaWiki, Joomla, WordPress, etc.
+
+* <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="50">[windowspackages](https://github.com/adgellida/windowspackages) - Install & update packages like a boss
+
+</p>
 
 Main sites where I participate in
 =============================================
@@ -86,18 +101,3 @@ Main sites where I participate in
   <a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50">
   <a href="https://motorshareroom.com/motorshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://motorshareroom.com/motorshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
-    
-Main developments
-=============================================
-
-* <img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" width="50">[ubunsys](https://github.com/adgellida/ubunsys) - Gives the user a powerful control center to toggle on and off many system settings in Ubuntu x64, it is able to change system configurations, system updates, executable improvements, small system fixes, and more at the touch of a button
-
-* <img src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" width="50">[winsys](https://github.com/adgellida/winsys) - Very similiar to ubunsys, but for Windows 10 x64
-
-* <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="50">[data-protection-list](https://github.com/adgellida/data-protection-list) - Manual of resistance to surveillance capitalism
-  
-* <img src="https://github.com/techshareroom/resources/raw/main/images/backup-restore-advanced-cms.png" width="50">[backup-restore-advanced-cms](https://github.com/techshareroom/backup-restore-advanced-cms) - Universal backup script for sites using content management system (CMS) such as MediaWiki, Joomla, WordPress, etc.
-
-* <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="50">[windowspackages](https://github.com/adgellida/windowspackages) - Install & update packages like a boss
-
-</p>
