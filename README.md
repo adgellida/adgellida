@@ -73,10 +73,6 @@ Main sites where I participate in
   <a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50">
   <a href="https://adgellida.com/adgellida_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
 
-  <!-- Clan Zoku -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/ClanZoku.png" width="100">
-  <a href="https://discord.gg/h3ThekC7Bt" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
-
   <!-- TechShareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo3_1.gif" width="100">
   <a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
@@ -87,13 +83,6 @@ Main sites where I participate in
   <a href="https://techshareroom.com/techshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
 
-  <!-- Brotech -->
-* <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100">
-  <a href="https://brotechka.wordpress.com" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
-  <a href="https://www.twitch.tv/tvbrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a><a href="https://app.revolt.chat/invite/en2Qwe3m" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/Revolt.jpg" width="50"></a>
-  <a href="https://discord.gg/kCGhQcrVKK" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
-  <a href="https://github.com/TVBrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
-
   <!-- MotorShareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">
   <a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
@@ -101,3 +90,10 @@ Main sites where I participate in
   <a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50">
   <a href="https://motorshareroom.com/motorshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://motorshareroom.com/motorshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
+
+    <!-- Brotech -->
+* <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100">
+  <a href="https://brotechka.wordpress.com" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
+  <a href="https://www.twitch.tv/tvbrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a><a href="https://app.revolt.chat/invite/en2Qwe3m" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/Revolt.jpg" width="50"></a>
+  <a href="https://discord.gg/kCGhQcrVKK" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
+  <a href="https://github.com/TVBrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
