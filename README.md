@@ -48,7 +48,19 @@ My topics of interest are Linux, Xiaomi, Android, Arduino, Raspberry Pi, Open So
 </br>
 
 <p align="left">
-    
+
+Technologies
+=============================================
+<p align="center">
+  <img src="https://github.com/adgellida/resources/raw/main/images/ArchLogo.png" alt="Logo 1" width="50"/>
+  <img src="https://github.com/adgellida/resources/raw/main/images/C++.png" alt="Logo 2" width="50"/>
+  <img src="https://github.com/adgellida/resources/raw/main/images/Odoo.png" alt="Logo 5" width="50"/>
+  <img src="https://github.com/adgellida/resources/raw/main/images/Docker.png" alt="Logo 3" width="50"/>
+  <img src="https://github.com/adgellida/resources/raw/main/images/mediawiki.png" alt="Logo 4" width="50"/>
+  <img src="https://github.com/adgellida/resources/raw/main/images/Odoo.png" alt="Logo 5" width="50"/>
+  <img src="https://github.com/adgellida/resources/raw/main/images/WordPress_blue_logo.png" alt="Logo 5" width="50"/>
+</p>
+
 Main developments
 =============================================
 
