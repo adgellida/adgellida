@@ -47,22 +47,25 @@ My topics of interest are Linux, Xiaomi, Android, Arduino, Raspberry Pi, Open So
 <br>
 </br>
 
-<p align="left">
-
 Technologies
 =============================================
 <p align="center">
-  <img src="https://github.com/adgellida/resources/raw/main/images/ArchLogo.png" alt="Logo 1" width="50"/>
-  <img src="https://github.com/adgellida/resources/raw/main/images/C++.png" alt="Logo 2" width="50"/>
-  <img src="https://github.com/adgellida/resources/raw/main/images/Odoo.png" alt="Logo 5" width="50"/>
-  <img src="https://github.com/adgellida/resources/raw/main/images/Docker.png" alt="Logo 3" width="50"/>
-  <img src="https://github.com/adgellida/resources/raw/main/images/mediawiki.png" alt="Logo 4" width="50"/>
-  <img src="https://github.com/adgellida/resources/raw/main/images/Odoo.png" alt="Logo 5" width="50"/>
-  <img src="https://github.com/adgellida/resources/raw/main/images/WordPress_blue_logo.png" alt="Logo 5" width="50"/>
+
+  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/ArchLogo.png" width="50"/>
+  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/C++.png"  width="50"/>
+  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/Odoo.png"  width="50"/>
+  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/Docker.png"  width="50"/>
+  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/mediawiki.png"  width="50"/>
+  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/Odoo.png" width="50"/>
+  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/WordPress_blue_logo.png" width="50"/>
+
 </p>
+<br>
+</br>
 
 Main developments
 =============================================
+<p align="left">
 
 * <img src="https://raw.githubusercontent.com/adgellida/ArchMatic/master/logo.png" width="50">[ArchMatic](https://github.com/adgellida/ArchMatic) - Arch Linux post-installation setup and config scripts. Tested on Garuda Linux (Arch based)
 
