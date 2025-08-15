@@ -69,21 +69,21 @@ Main developments
 
 
 
-* <img src="https://raw.githubusercontent.com/MotorShareRoom/electric-vehicle-saving-calculator/master/logo.png" width="50">[electric-vehicle-saving-calculator](https://github.com/MotorShareRoom/electric-vehicle-saving-calculator) - A tool to calculate the savings if you buy an electric vehicle
+* <img src="https://raw.githubusercontent.com/MotorShareRoom/electric-vehicle-saving-calculator/master/logo.png" width="50">&nbsp;[electric-vehicle-saving-calculator](https://github.com/MotorShareRoom/electric-vehicle-saving-calculator) - A tool to calculate the savings if you buy an electric vehicle
 
-* <img src="https://raw.githubusercontent.com/TechShareRoom/working-hours-calculator/master/logo.png" width="50">[working-hours-calculator](https://github.com/TechShareRoom/working-hours-calculator) - Calculate your working time
+* <img src="https://raw.githubusercontent.com/TechShareRoom/working-hours-calculator/master/logo.png" width="50">&nbsp;[working-hours-calculator](https://github.com/TechShareRoom/working-hours-calculator) - Calculate your working time
 
-* <img src="https://raw.githubusercontent.com/adgellida/ArchMatic/master/logo.png" width="50">[ArchMatic](https://github.com/adgellida/ArchMatic) - Arch Linux post-installation setup and config scripts. Tested on Garuda Linux (Arch based)
+* <img src="https://raw.githubusercontent.com/adgellida/ArchMatic/master/logo.png" width="50">&nbsp;[ArchMatic](https://github.com/adgellida/ArchMatic) - Arch Linux post-installation setup and config scripts. Tested on Garuda Linux (Arch based)
 
-* <img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" width="50">[ubunsys](https://github.com/adgellida/ubunsys) - Gives the user a powerful control center to toggle on and off many system settings in Ubuntu x64, it is able to change system configurations, system updates, executable improvements, small system fixes, and more at the touch of a button
+* <img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" width="50">&nbsp;[ubunsys](https://github.com/adgellida/ubunsys) - Gives the user a powerful control center to toggle on and off many system settings in Ubuntu x64, it is able to change system configurations, system updates, executable improvements, small system fixes, and more at the touch of a button
 
-* <img src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" width="50">[winsys](https://github.com/adgellida/winsys) - Very similiar to ubunsys, but for Windows 10 x64
+* <img src="https://raw.githubusercontent.com/adgellida/winsys/master/logo.png" width="50">&nbsp;[winsys](https://github.com/adgellida/winsys) - Very similiar to ubunsys, but for Windows 10 x64
 
-* <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="50">[data-protection-list](https://github.com/adgellida/data-protection-list) - Manual of resistance to surveillance capitalism
+* <img src="https://raw.githubusercontent.com/adgellida/data-protection-list/main/images/privacy-first.png" width="50">&nbsp;[data-protection-list](https://github.com/adgellida/data-protection-list) - Manual of resistance to surveillance capitalism
   
-* <img src="https://github.com/techshareroom/resources/raw/main/images/backup-restore-advanced-cms.png" width="50">[backup-restore-advanced-cms](https://github.com/techshareroom/backup-restore-advanced-cms) - Universal backup script for sites using content management system (CMS) such as MediaWiki, Joomla, WordPress, etc.
+* <img src="https://github.com/techshareroom/resources/raw/main/images/backup-restore-advanced-cms.png" width="50">&nbsp;[backup-restore-advanced-cms](https://github.com/techshareroom/backup-restore-advanced-cms) - Universal backup script for sites using content management system (CMS) such as MediaWiki, Joomla, WordPress, etc.
 
-* <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="50">[windowspackages](https://github.com/adgellida/windowspackages) - Install & update packages like a boss
+* <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="50">&nbsp;[windowspackages](https://github.com/adgellida/windowspackages) - Install & update packages like a boss
 
 </p>
 
@@ -91,14 +91,14 @@ Main sites where I participate in
 =============================================
   <!-- adgellida -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/photo2.png" width="100">
-  <a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50">
+  <a href="https://www.twitch.tv/adgellida" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
   <a href="https://adgellida.com/adgellida_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
 
   <!-- TechShareRoom -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Techshare_room_Logo3_1.gif" width="100">
   <a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
   <a href="https://discord.gg/m3faPREr23" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
-  <a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50">
+  <a href="https://t.me/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
   <a href="https://github.com/TechShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
   <a href="https://techshareroom.com/techshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
@@ -107,7 +107,7 @@ Main sites where I participate in
 * <img src="https://github.com/adgellida/resources/blob/master/images/Motorshare_room_Logo2.png" width="100">
   <a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
   <a href="https://discord.gg/fz6uMEq" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a> 
-  <a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50">
+  <a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50"></a>
   <a href="https://github.com/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
   <a href="https://motorshareroom.com/motorshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://motorshareroom.com/motorshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
