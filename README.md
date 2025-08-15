@@ -67,6 +67,12 @@ Main developments
 =============================================
 <p align="left">
 
+
+
+* <img src="https://raw.githubusercontent.com/MotorShareRoom/electric-vehicle-saving-calculator/master/logo.png" width="50">[electric-vehicle-saving-calculator](https://github.com/MotorShareRoom/electric-vehicle-saving-calculator) - A tool to calculate the savings if you buy an electric vehicle
+
+* <img src="https://raw.githubusercontent.com/TechShareRoom/working-hours-calculator/master/logo.png" width="50">[working-hours-calculator](https://github.com/TechShareRoom/working-hours-calculator) - Calculate your working time
+
 * <img src="https://raw.githubusercontent.com/adgellida/ArchMatic/master/logo.png" width="50">[ArchMatic](https://github.com/adgellida/ArchMatic) - Arch Linux post-installation setup and config scripts. Tested on Garuda Linux (Arch based)
 
 * <img src="https://raw.githubusercontent.com/adgellida/ubunsys/master/logo.png" width="50">[ubunsys](https://github.com/adgellida/ubunsys) - Gives the user a powerful control center to toggle on and off many system settings in Ubuntu x64, it is able to change system configurations, system updates, executable improvements, small system fixes, and more at the touch of a button
@@ -102,12 +108,13 @@ Main sites where I participate in
   <a href="https://www.twitch.tv/techshareroom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a>
   <a href="https://discord.gg/fz6uMEq" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a> 
   <a href="https://t.me/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/telegram.png" width="50">
+  <a href="https://github.com/MotorShareRoom" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
   <a href="https://motorshareroom.com/motorshareroom_web" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://motorshareroom.com/motorshareroom_wiki" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/mediawiki.png" width="50"></a>
 
     <!-- Brotech -->
 * <img src="https://github.com/adgellida/resources/blob/master/images/Brotech.jpg" width="100">
-  <a href="https://brotechka.wordpress.com" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
   <a href="https://www.twitch.tv/tvbrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/twitch.png" width="50"></a></a>
   <a href="https://discord.gg/kCGhQcrVKK" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/discord.png" width="50"></a>
   <a href="https://github.com/TVBrotech" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/github.png" width="50"></a>
+  <a href="https://brotechka.wordpress.com" target="_blank"><img src="https://github.com/adgellida/resources/blob/master/images/WordPress_blue_logo.png" width="50"></a>
