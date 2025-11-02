@@ -53,7 +53,7 @@ Technologies
 
   <img align="left" src="https://github.com/adgellida/resources/raw/master/images/ArchLogo.png" width="50"/>
   <img align="left" src="https://github.com/adgellida/resources/raw/master/images/C++.png"  width="50"/>
-  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/Odoo.png"  width="50"/>
+  <img align="left" src="https://github.com/adgellida/resources/raw/master/images/ReactNative.png"  width="50"/>
   <img align="left" src="https://github.com/adgellida/resources/raw/master/images/Docker.png"  width="50"/>
   <img align="left" src="https://github.com/adgellida/resources/raw/master/images/mediawiki.png"  width="50"/>
   <img align="left" src="https://github.com/adgellida/resources/raw/master/images/Odoo.png" width="50"/>
@@ -68,6 +68,8 @@ Main developments
 <p align="left">
 
 
+
+* <img src="https://github.com/adgellida/resources/raw/master/images/Chronometer.png" width="50">&nbsp;[garage-days-lap-timing-chart](https://motorshareroom.com/garage-days-lap-timing-chart/) - A web to filter car lap timings on Garage Days Youtube Channel
 
 * <img src="https://raw.githubusercontent.com/MotorShareRoom/electric-vehicle-saving-calculator/master/logo.png" width="50">&nbsp;[electric-vehicle-saving-calculator](https://github.com/MotorShareRoom/electric-vehicle-saving-calculator) - A tool to calculate the savings if you buy an electric vehicle
 
