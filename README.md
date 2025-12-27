@@ -69,7 +69,7 @@ Main developments
 
 
 
-* <img src="https://github.com/adgellida/resources/raw/master/images/Chronometer.png" width="50">&nbsp;[garage-days-lap-timing-chart](https://motorshareroom.com/garage-days-lap-timing-chart/) - A web to filter car lap timings on Garage Days Youtube Channel
+* <img src="https://github.com/adgellida/resources/raw/master/images/Chronometer.png" width="50">&nbsp;[lap-timing-chart](https://motorshareroom.com/lap-timing-chart/) - A web to filter car lap timings on various circuits
 
 * <img src="https://raw.githubusercontent.com/MotorShareRoom/electric-vehicle-saving-calculator/master/logo.png" width="50">&nbsp;[electric-vehicle-saving-calculator](https://github.com/MotorShareRoom/electric-vehicle-saving-calculator) - A tool to calculate the savings if you buy an electric vehicle
 
